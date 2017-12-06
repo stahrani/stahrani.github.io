@@ -1,0 +1,70 @@
+.background_png {
+  background-image: url("kq-assets/background.png");
+  opacity: 0.49;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 1033px;
+  z-index: 1;
+}
+
+
+.KQlogo_png {
+  background-image: url("kq-assets/KQlogo.png");
+  position: absolute;
+  left: 30px;
+  top: 28px;
+  width: 130px;
+  height: 110px;
+  z-index: 2;
+}
+
+.grill_home_page_png {
+  background-image: url("kq-assets/grill-home page.png");
+  position: absolute;
+  left: 175px;
+  top: 121px;
+  width: 845px;
+  height: 845px;
+  z-index: 8;
+}
+.order_png {
+	background-image: url(kq-assets/order.png);
+	position: absolute;
+	left: 1000px;
+	top: 816px;
+	width: 151px;
+	height: 151px;
+	z-index: 7;
+}
+
+.navigation{
+	width: 1000px;
+	height: 50px;
+	background-color:;
+	position: absolute;
+  	left: 200px;
+	z-index:10;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	display: inline;
+	margin-right: 130px;
+}
+
+a{
+	color: #653e1a;
+	text-decoration: none;
+	font-family: 'Varela', sans-serif;
+	font-size:25px;
+}
+
+a:hover{
+	color:#861916;
+
+}

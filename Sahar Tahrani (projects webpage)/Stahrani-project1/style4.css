@@ -1,0 +1,98 @@
+@charset "UTF-8";
+.background_png {
+  background-image: url("kq-assets/background.png");
+  opacity: 0.49;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 1033px;
+  z-index: 1;
+}
+.KQlogo_png {
+	position: absolute;
+	left: 30px;
+	top: 28px;
+	width: 130px;
+	height: 110px;
+	z-index: 2;
+}
+.kqmap_png {
+	position: absolute;
+	left: 366px;
+	top: 83px;
+	width: 445px;
+	height: 444px;
+	z-index: 48;
+}
+.Rec1_png {
+  background-image: url("kq-assets/Rec1.png");
+  position: absolute;
+  left: 50px;
+  top: 658px;
+  width: 534px;
+  height: 340px;
+  z-index: 52;
+}
+
+.Rec2_png {
+  background-image: url("kq-assets/Rec2.png");
+  position: absolute;
+  left: 617px;
+  top: 658px;
+  width: 534px;
+  height: 340px;
+  z-index: 51;
+}
+
+.navigation{
+	width: 1000px;
+	height: 50px;
+	background-color:;
+	position: absolute;
+	z-index:10;
+  left: 200px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	display: inline;
+	margin-right: 130px;
+}
+
+p{
+		color:#861916;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size:35px;
+		
+	width: 500px;
+	height: 800px;
+float: left;
+padding: 20px;
+margin-right: 20px;
+}
+a{
+	color: #653e1a;
+	text-decoration: none;
+	font-family: 'Varela', sans-serif;
+	font-size:25px;
+}
+
+a:hover{
+	color:#861916;
+	
+}
+
+.adress_phone_png {
+  background-image: url("kq-assets/adress-phone.png");
+  position: absolute;
+  left: 317px;
+  top: 547px;
+  width: 538px;
+  height: 81px;
+  z-index: 48;
+}
+
